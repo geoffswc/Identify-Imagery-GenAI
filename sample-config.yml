@@ -1,0 +1,6 @@
+API_KEY: ''  ##### Paste your API key between the quotes #####
+API_VERSION: '2024-06-01'  
+RESOURCE_ENDPOINT: ''  
+DEPLOYMENT_MODEL: 'gpt-4o' # alternatively, use 'gpt-35-turbo-instruct'
+MAX_RETRIES: 3
+RETRY_SECS: 5
